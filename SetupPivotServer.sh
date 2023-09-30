@@ -1,8 +1,8 @@
 #!/bin/bash
 
-PIVOT_Ip="hovercricket"
-PIVOT_ForwardIp="37.120.207.132"
-PIVOT_ForwardPort="46944"
+PIVOT_Ip="preparesupreme"
+PIVOT_ForwardIp="82.221.128.46"
+PIVOT_ForwardPort="43196"
 PIVOT_User="root"
 PIVOT_Password="segfault"
 
